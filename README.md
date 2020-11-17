@@ -2,6 +2,8 @@
 
 Runs express server for twitter login on port 8080. To run: 
 
-`npm install`
+1. Create `.env` file based on .env.example with required Twitter developer keys
 
-`node index.js`
+2. run `npm install`
+
+3. run `node index.js`
